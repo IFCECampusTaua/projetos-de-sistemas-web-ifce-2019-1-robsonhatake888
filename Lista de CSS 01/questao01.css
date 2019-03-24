@@ -1,0 +1,79 @@
+body{
+	 background-color: #DCDCDC;
+	}
+
+#login{
+	border: 1px solid #3d9db3;
+	border-radius: 2px;
+	width: 300px;
+	height: 300px;
+	background-color: #f6f6f6;
+	
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	
+}
+
+#h1 {
+	border-bottom:  1.2px solid  #3d9db3;
+	color: #3d9db3;
+	font-size: 14;
+	font-family: Arial;
+	text-align: center;
+}
+
+
+#rodape {
+	 background-color:#e0eaeb;
+	 width: 320px;
+	 height: 50px; 
+	 position: absolute;
+	 bottom: 50%;
+	 height: -20%;
+	 left: 38.3%;
+	 text-align: center;
+	 border-bottom:  1.2px solid  #3d9db3;
+	
+
+}
+
+#email{
+	width: 300px;
+	height: 23px;
+	border-radius: 2px;
+	border: 1px solid #3d9db3;
+	background-color: white;
+
+}
+
+#senha{
+	width: 300px;
+	height: 23px;
+	border-radius: 2px;
+	border: 1px solid #3d9db3;
+	background-color: white;
+}
+
+#botao{
+	width: 300px;
+	height: 30px;
+	color: #ffffff;
+	border: 1px solid #3d9db3;
+	border-radius: 2px;
+	font-size: 14;
+	font-family: Arial;
+	text-align: center;
+	background-color: #3d9db3;	
+}
+
+#Cadastre-se{
+	background-color: #ffffff;
+	border: 1px solid yellow;
+	border-radius: 2px;
+	font-weight: bold;
+	font-size: 14;
+	font-family: Arial;
+	text-align: center;
+	color: #3d9db3;
+}
