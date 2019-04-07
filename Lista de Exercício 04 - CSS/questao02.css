@@ -1,0 +1,130 @@
+body{
+	font-family: arial;
+	text-align: justify;
+
+}
+.tabela{
+	background-color: black;
+	width: 100%;
+}
+.titulo{
+	height: 25px;
+	width: 100%;
+	background-color: black;
+	color: gray;
+	font-size: 15px;
+	text-align: justify;
+}
+.bt{
+	width: 10px;
+}
+.btt{
+	cursor: pointer;
+	background-color: black;
+	color: gray;
+	font-size: 15px;
+	text-align: justify;
+	border-color: black;
+}
+.tabela2{
+	background-color: white;
+
+}
+.cabeçalho{
+	height: 75px;
+}
+.itens{
+	padding-left: 10px;
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+}
+.novo{
+	position: absolute;
+	height: 30px;
+	top: 60px;
+	right: 20px;
+	background-color: #4879ac;
+	border-color:#4879ac;
+	border-radius: 5px;
+	font-size: 15px;
+	color: white;
+	cursor: pointer;
+}
+.pesquisa{
+	position: absolute;
+	height: 24px;
+	top: 60px;
+	width: 600px;
+	left: 300px;
+	border-radius: 5px;
+}
+.btp{
+	top: 60px;
+	position: absolute;
+	background-image: url('busca.png');
+	right: 450px;
+	height: 30px;
+	cursor: pointer;
+	border-radius: 0px 5px 5px 0px;
+	width: 40px;
+	border-color: #4879ac;
+
+}
+/*input{
+  border-radius: 4px;
+  height: 24px;
+  width: 600px;
+  position: relative;
+  left: 300px;
+  border: 2px solid #ccc;
+  font-size: 15px;
+  padding: 6px;
+  background-image: url('busca.png');
+  background-position: 460px; 
+  background-size: 50px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}*/
+.rodape{
+	font-size: 12px;
+	width: 100%;
+}
+.Visualizar{
+  background-color: #008000 ; 
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.Editar{
+  background-color: #FFD700; 
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.Excluir{
+  background-color: #FF0000 ;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.impar{
+	background-color: #f0f0f0f0;
+	border-color: gray;
+}
+
